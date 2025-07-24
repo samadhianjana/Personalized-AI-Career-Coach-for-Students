@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# FAISS index files
+*.index
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# pip logs
+pip-log.txt
+
+# KaggleHub cache
+kagglehub/
+
+career_coach_index.index
